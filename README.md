@@ -1,4 +1,13 @@
-### Hi there 👋
+<p align="center">
+ <img src="https://media2.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif?cid=ecf05e47be9610i7vpfct3d34pphhr373x2gj2fq385vwuej&rid=giphy.gif&ct=g" width="50%" height="42%"  title="ruby script image chat GPT-3">
+</p>
+<h1 align='center'> Hi! :wave:</h1>
+<p align='center'>
+I'm HsN. <br>
+An AppSec Engineer, always curious and starved for learning. 
+</p>
+<p align='center'>For enquiries, reach out <a href="https://twitter.com/R34LUS3R">Twitter</a>.</p>
+<h1 align='center'><i>Stay blessed!</i></h1>
 
 <!--
 **R34LUS3R/R34LUS3R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
