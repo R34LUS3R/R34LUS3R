@@ -6,4 +6,4 @@
 HsN Here! :smile_cat:<br>
 An AppSec Engineer, always curious and starved for learning
 </p><br>
-<p align="center"> Visitor count<br> <img src="https://svgur.com/i/pnL.svg" /> </p>
+<p align="center"> Visitors counts<br> <img src="https://svgur.com/i/pnL.svg" /> </p>
