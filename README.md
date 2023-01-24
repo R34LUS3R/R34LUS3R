@@ -1,25 +1,10 @@
 <p align="center">
  <img src="https://camo.githubusercontent.com/014107399e721c63a71a35afc126b0777165704d5e2b1c754db43088c23dbbff/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f303737693641554c43586330464b546a39732f67697068792e6769663f6369643d6563663035653437626539363130693776706663743364333470706868723337337832676a326671333835767775656a267269643d67697068792e6769662663743d67" width="50%" height="42%"  title="security in danger!">
 </p>
-<h1 align='center'> Hi! :wave:</h1>
+<p align="center"> <a href=#><img src="contributions.svg"></a></p>
+<h1 align='center'> Hi! :wave:</h1><br>
 <p align='center'>
-I'm HsN. <br>
-An AppSec Engineer, always curious and starved for learning. 
-</p>
-<p align='center'>For enquiries, reach out <a href="https://twitter.com/R34LUS3R">Twitter</a>.</p>
-<h1 align='center'><i>Stay blessed!</i></h1>
-
-<!--
-**R34LUS3R/R34LUS3R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+HsN Here! :smile_cat:<br>
+An AppSec Engineer, always curious and starved for learning
+</p><br>
+<p align="center"> Visitor count<br> <img src="https://svgur.com/i/pnL.svg" /> </p>
